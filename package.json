@@ -1,0 +1,29 @@
+{
+  "name": "uclass-17-nodejs",
+  "version": "1.0.0",
+  "description": "Aprendiendo Node js y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCanoS/UCLASS-Aprendiendo-NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "react"
+  ],
+  "author": "NCanoS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NCanoS/UCLASS-Aprendiendo-NodeJS/issues"
+  },
+  "homepage": "https://github.com/NCanoS/UCLASS-Aprendiendo-NodeJS#readme",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "nodemon": "^2.0.20"
+  }
+}
